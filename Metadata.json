@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 3130,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/how-to-use-a-sql-command-in-an-azure-automation-runbook/master/Use-SqlCommandSample.ps1",
+    "DownloadCount": 18951,
+    "Id": "How-to-use-a-SQL-Command-be77f9d2",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 13,
+    "RaterCount": 6,
+    "Rating": 4.7,
+    "ReleaseDate": "2014-3-31T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This PowerShell Workflow runbook outputs the number of records specified in a SQL Server database table.",
+    "Title": "How to use a SQL Command in an Azure Automation Runbook",
+    "UpdatedDate": "2016-12-15T00:00:00",
+    "Url": "https://github.com/azureautomation/how-to-use-a-sql-command-in-an-azure-automation-runbook",
+    "UserTags": "Runbook, Tutorial"
+}
